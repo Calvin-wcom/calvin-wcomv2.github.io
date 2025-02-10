@@ -5,9 +5,26 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
-    url: tags/
-    weight: 20
-  - name: Uses
-    url: uses/
-    weight: 30
+  - name: Research Topics 
+    url: topics/
+    weight: 15 
+  - name: Research Publications 
+    url: publications/
+    weight: 20 
+  - name: Professionals 
+    url: professionals/
+    weight: 25  
+  - name: Awards 
+    url: awards/ 
+    weight: 30 
+
+  #   main:
+  # - name: Home
+  #   url: /
+  #   weight: 10
+  # - name: Topics
+  #   url: tags/
+  #   weight: 20
+  # - name: Uses
+  #   url: uses/
+  #   weight: 30
