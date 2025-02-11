@@ -22,7 +22,7 @@ role: Lecturer (Assistant Professor)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: La Trobe University
-    url: https://www.stanford.edu/
+    url: https://scholars.latrobe.edu.au/c7liu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
